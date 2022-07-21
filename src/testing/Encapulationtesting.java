@@ -13,6 +13,10 @@ public class Encapulationtesting {
 	    System.out.println(keySet);
 	    for (Employee employee : keySet) {
 			System.out.println(employee);
+			
+			System.out.println("Employee"+ employee);
+			
+			System.out.println("data inserted.....");
 		}
 		
 	
